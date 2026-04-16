@@ -42,6 +42,7 @@ const luana = {
 **Práticas de QA**
 
 ![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-0F6E56?style=flat)
+![Testes Automatizados](https://img.shields.io/badge/Testes%20Automatizados-0F6E56?style=flat)
 ![Testes Funcionais](https://img.shields.io/badge/Testes%20Funcionais-0F6E56?style=flat)
 ![Testes Não--Funcionais](https://img.shields.io/badge/Testes%20Não--Funcionais-0F6E56?style=flat)
 ![BDD / Gherkin](https://img.shields.io/badge/BDD%20%2F%20Gherkin-0F6E56?style=flat)
