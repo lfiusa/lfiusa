@@ -1,22 +1,87 @@
-### Olá, eu sou a Luana Fiusa! 👋
+# Olá, eu sou a Luana Santos Fiusa! 👋
 
-- 🔭 Estou procurando uma oportunidade como Desenvolvedora Front-end Júnior
-- 🌱 Estudando HTML, CSS, JavaScript e React
-- 😄 Pronomes: ela/dela
+**QA Analyst · Tester · Automation Enthusiast** 🐞
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+📍 São José dos Campos, SP &nbsp;|&nbsp; 📧 luana.fiusa@outlook.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/luana-fiusa-)
 
-##
+---
 
-<div> 
-  <a href = "mailto:luana.fiusa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luana-fiusa-884068b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🙋‍♀️ Sobre mim
 
+Profissional em transição de carreira para a área de **Quality Assurance**, com background em Administração de Empresas e experiência prática em registro de bugs, acompanhamento de chamados e colaboração com times de desenvolvimento. Certificada **CTFL pelo BSTQB (2025)** e apaixonada por garantia de qualidade de software.
 
+```js
+// luana.js
+const luana = {
+  localização:   "São José dos Campos, SP 🇧🇷",
+  objetivo:      "Analista de Testes / QA Júnior",
+  formação:      "Administração (UNINOVE) + Técnico em Informática (FITO)",
+  certificação:  "Certified Tester Foundation Level — BSTQB (2025)",
+  aprendendo:    ["JavaScript", "Cypress", "Robot Framework", "SQL"],
+};
+```
 
+---
+
+## 🧪 Habilidades de QA
+
+**Testes**
+
+![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-0F6E56?style=flat)
+![Testes Funcionais](https://img.shields.io/badge/Testes%20Funcionais-0F6E56?style=flat)
+![Testes Não--Funcionais](https://img.shields.io/badge/Testes%20Não--Funcionais-0F6E56?style=flat)
+![BDD / Gherkin](https://img.shields.io/badge/BDD%20%2F%20Gherkin-0F6E56?style=flat)
+![Plano de Testes](https://img.shields.io/badge/Plano%20de%20Testes-0F6E56?style=flat)
+![Gestão de Bugs](https://img.shields.io/badge/Gestão%20de%20Bugs-0F6E56?style=flat)
+
+**Automação & Ferramentas**
+
+![Cypress](https://img.shields.io/badge/Cypress-185FA5?style=flat)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-185FA5?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat)
+![Git](https://img.shields.io/badge/Git-185FA5?style=flat)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat)
+![JIRA](https://img.shields.io/badge/JIRA-534AB7?style=flat)
+![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-534AB7?style=flat)
+![SAP](https://img.shields.io/badge/SAP-534AB7?style=flat)
+
+---
+
+## 📚 Formação & Certificações
+
+| Ano | Certificação / Curso |
+|-----|----------------------|
+| 2025 | 🏅 Certified Tester Foundation Level — **BSTQB** |
+| 2024 | Prime Hero Academy — Prime Control |
+| 2024 | Robot Framework: automatizando testes no padrão BDD — Alura |
+| 2024 | Cypress: automação de testes E2E — Alura |
+| 2024 | Quality Assurance: plano de testes e gestão de bugs — Alura |
+| 2024 | JavaScript: manipulando elementos no DOM — Alura |
+| 2024 | HTML e CSS para projetos web — Alura |
+| 2023 | Gestão da Qualidade e Processos — **FGV** |
+| 2020 | Bootcamp UX Design — How Bootcamps |
+| 2020 | Inglês Avançado — EF English Live |
+| 2021 | Graduação em Administração de Empresas — **UNINOVE** |
+| 2014 | Ensino Médio Técnico em Informática — **FITO** |
+
+---
+
+## 💼 Experiência relevante para QA
+
+**Grupo Binário** · Assistente Administrativa *(2020 – atual)*
+- Acompanhamento de abertura e fechamento de chamados
+- Resolução de problemas e sugestões de melhoria contínua
+- Contato com clientes e prestadores de serviço
+
+**Execplan** · Estagiária Administrativa *(2019 – 2020)*
+- Registro detalhado de bugs em ferramenta de gerenciamento de projetos (descrição, impacto, urgência)
+- Encaminhamento para time de desenvolvimento e acompanhamento do status da correção
+- Documentação de chamados resolvidos para análise de tendências e melhorias no sistema
+- Colaboração direta com desenvolvedores
+
+---
+
+## 📬 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luana--fiusa-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luana-fiusa-)
+[![Email](https://img.shields.io/badge/Email-luana.fiusa%40outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:luana.fiusa@outlook.com)
