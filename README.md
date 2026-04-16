@@ -17,7 +17,7 @@ const luana = {
   objetivo:      "Analista de Testes / QA Júnior",
   formação:      "Administração (UNINOVE) + Técnico em Informática (FITO)",
   certificação:  "Certified Tester Foundation Level — BSTQB (2025)",
-  aprendendo:    ["JavaScript", "Cypress", "Robot Framework", "SQL"],
+  aprendendo:    ["Cypress", "Robot Framework", "SQL", "JavaScript"],
 };
 ```
 
@@ -25,7 +25,21 @@ const luana = {
 
 ## 🧪 Habilidades de QA
 
-**Testes**
+**Ferramentas & Linguagens**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,js,git,html,css,github,vscode&theme=light" />
+  </a>
+</p>
+
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Práticas de QA**
 
 ![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-0F6E56?style=flat)
 ![Testes Funcionais](https://img.shields.io/badge/Testes%20Funcionais-0F6E56?style=flat)
@@ -33,17 +47,7 @@ const luana = {
 ![BDD / Gherkin](https://img.shields.io/badge/BDD%20%2F%20Gherkin-0F6E56?style=flat)
 ![Plano de Testes](https://img.shields.io/badge/Plano%20de%20Testes-0F6E56?style=flat)
 ![Gestão de Bugs](https://img.shields.io/badge/Gestão%20de%20Bugs-0F6E56?style=flat)
-
-**Automação & Ferramentas**
-
-![Cypress](https://img.shields.io/badge/Cypress-185FA5?style=flat)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-185FA5?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat)
-![Git](https://img.shields.io/badge/Git-185FA5?style=flat)
-![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat)
-![JIRA](https://img.shields.io/badge/JIRA-534AB7?style=flat)
 ![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-534AB7?style=flat)
-![SAP](https://img.shields.io/badge/SAP-534AB7?style=flat)
 
 ---
 
